@@ -1,0 +1,33 @@
+body
+{
+	background-image: url("Imagenes/back.jpg");
+}
+h1
+{
+	color: white;
+}
+input
+{
+	font-size: 30px;
+}
+
+#cuerpo
+{
+	background-color: rgba(255,102,204,0.5);
+	width: 1000px;
+}
+#Tabla
+{
+	color: white;
+	font-size: 30px;
+}
+#Respuesta
+{
+	margin: 10px;
+	font-size: 30px;
+	color: white;
+}
+#Respuesta img
+{
+	padding: 2px;
+}
